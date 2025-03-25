@@ -19,4 +19,4 @@ This analysis shows the percentage of tweets containing specific keywords from D
 
 Below is the bar graph representing the percentage of tweets containing each keyword.
 
-![Bar Graph](my_figure.png)
+![Bar Graph](./my_figure.png)
